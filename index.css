@@ -1,0 +1,23 @@
+body {
+background: linear-gradient(rgb(239, 208, 68),rgb(156, 95, 210)) 
+}
+h1{
+color: aliceblue;
+font-family:"Lobster";
+border-style: double;
+background-color: brown;
+border-width: 8px;
+}
+.par{
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    background-color: rgb(255, 164, 205)  
+}
+h4{font-family:"Lobster";}
+img{
+    border-style: double;
+    background-color: brown;
+    border-width: 8px;
+}
+
